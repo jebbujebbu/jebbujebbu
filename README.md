@@ -23,12 +23,13 @@
 
 - 🧹 [CSV Cleaner](https://github.com/jebbujebbu/csv_cleaner)  
   A Python tool that cleans messy CSV files with consistent formatting — includes examples, command line use, and error handling.
+- 🗂️ [Task Manager](https://github.com/jebbujebbu/task_manager)  
+  A simple web app to add, edit, delete, and filter tasks, with data saved in local storage.
 
 ---
 
 ## 🌱 What I'm Working On
 
-- 🗂️ **Task Manager Web App:** A simple web app to add, edit, delete, and filter tasks, with data saved in local storage.
 - 💻 **System Info CLI Tool:** A Python or Bash script that shows system info like CPU, RAM, disk usage, IP address, and OS details.
 - ☀️ **Weather App:** A frontend app that fetches weather data using an external API or a simple custom API.
 - 🗄️ **SQL Project:** Working with SQLite on a sample database (e.g., bookstore or movie rental), including queries with joins, aggregations, views, and stored procedures.
