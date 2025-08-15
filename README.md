@@ -2,9 +2,7 @@
 
 I'm a third-year Information Technology engineering student.
 
-Before starting my studies in IT, I worked as a teacher helping immigrants learn Finnish as a second language and teaching native Finnish in a vocational school.
-
-This experience strengthened my communication, problem-solving, and organizational skills — qualities I now bring into software development projects.
+Before starting my studies in IT, I worked as a teacher helping immigrants learn Finnish as a second language and teaching native Finnish in a vocational school. This experience strengthened my communication, problem-solving, and organizational skills — qualities I now bring into software development projects.
 
 ## Technical Skills
 
