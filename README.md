@@ -32,19 +32,27 @@ This experience strengthened my communication, problem-solving, and organization
 
 ## What I'm Working On
 
-- **Full-Stack E-commerce Product Page (FrontEndMentor Challenge)**
+- **Full-Stack E-commerce Product Page**
   - Building a full-stack application with React, Redux Toolkit, Node.js, Express, and MySQL.
   - Features include product browsing, a shopping cart, and API integration.
   - Designed for deployment with a cloud database and hosted frontend.
-- **Rock, Paper, Scissors Game (FrontEndMentor Challenge)**
+- **Rock, Paper, Scissors Game**
   - Interactive game built in React with a focus on state management, animations, and responsive design.
 - **CSV Cleaner (Upgrade)**
-  - Adding a polished UI with React and implementing automated tests using Jest.
-  - Planning to add support for additional file formats and optimize for large datasets.
+  - Drag-and-drop CSV cleaning with live progress
+  - Configurable cleaning rules via JSON/YAML
+  - Handles multi-GB datasets efficiently
+  - Validates and fixes data formats (dates, emails, numbers)
+  - Exports to CSV, Excel, or JSON
+  - Web-based version deployed on Azure
 - **Task Manager App (Upgrade)**
-  - Refactoring with modern React (hooks), Redux for state management, and Firebase for cloud storage.
-  - Adding features like reminders, priority sorting, and drag-and-drop task ordering. 
-  - Fully responsive UI for desktop and mobile.
+  - Multi-user task management with authentication & role-based access
+  - Cloud-synced tasks via secure REST API & PostgreSQL backend
+  - Priority, tags, deadlines, and advanced filtering for productivity
+  - Real-time updates, drag-and-drop reordering, and offline support (PWA)
+  - Collaboration features: shared lists, task assignment, and comments
+  - Integrations with email, push notifications, and Google Calendar
+  - Fully responsive web app with dark mode, deployed on Vercel & Render
 
 ## Portfolio Website
 
