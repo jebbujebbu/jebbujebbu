@@ -53,7 +53,7 @@ I will be regularly upgrading my portfolio website to include new projects, mode
 ## Contact Me
 
 - 📧 **Email:** jebbujebbu.codes@gmail.com
-- 💼 **LinkedIn:** [Profile](linkedin.com/in/jenni-e-mikkonen)
+- 💼 **LinkedIn:** [Profile](https://linkedin.com/in/jenni-e-mikkonen)
 
 
 Thanks for visiting my GitHub profile!
