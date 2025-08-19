@@ -6,25 +6,25 @@ Before starting my studies in IT, I worked as a teacher helping immigrants learn
 
 ## Technical Skills I’m Learning
 
-- **Programming:** Python, C#, JavaScript, Node.js, React, .NET
+- **Programming:** C#, JavaScript, Node.js, React, .NET, Python
 - **Web Development:** HTML, CSS, REST APIs, Responsive Design
 - **Mobile Development:** Android
 - **Databases & Cloud:** MySQL, Azure, Azure DevOps
-- **System Administration:** Windows Server (AD DS), Linux OS
-- **Networking Basics:** TCP/IP, routing
-- **Version Control:** Git, including branching and collaboration workflows
-- **Testing & Quality Assurance:** Unit testing, Continuous Integration/Continuous Deployment (CI/CD)
-- **Security & Tools:** Secure software development, Cybersecurity
-- **Other:** Algorithms, Software Project Management, Artificial Intelligence
+- **System Administration:** Windows Server (Active Directory), Linux OS
+- **Networking Basics:** TCP/IP, Routing
+- **Version Control:** Git (branching and collaboration workflows)
+- **Testing & Quality Assurance:** Unit Testing, Continuous Integration/Continuous Deployment (CI/CD)
+- **Security & Tools:** Secure Software Development, Cybersecurity
+- **Other:** Software Project Management, Algorithms, AI, IoT, Big Data, Business Intelligence
 
 ## Portfolio Projects
 
 - **Task Manager**
-  - A simple web app to add, edit, delete, and filter tasks, storing data in local storage.
+  - A simple web app to add, edit, delete, and filter tasks, storing data in local storage
 - **DataFetch Android App**
-  - A native Android app that fetches and displays date-name data from a JSON source, demonstrating networking, JSON parsing, and list UI display using both ListView and RecyclerView. 
+  - A native Android app that fetches and displays date-name data from a JSON source, demonstrating networking, JSON parsing, and list UI display using both ListView and RecyclerView
 - **Portfolio Website**
-  - Showcases my projects, skills, and contact information, with a fully responsive design for all devices.
+  - Showcases my projects, skills, and contact information, with a fully responsive design for all devices
 
 ## What I'm Working On
 
