@@ -6,16 +6,16 @@ Before starting my studies in IT, I worked as a teacher helping immigrants learn
 
 ## Technical Skills I’m Learning
 
-- **Programming:** C#, JavaScript, Node.js, React, .NET, Python
-- **Web Development:** HTML, CSS, REST APIs, Responsive Design
+- **Programming Languages:** Python, C#, JavaScript, SQL
+- **Web Development:** HTML, CSS, React, Node.js, .NET, REST APIs, Responsive Design
 - **Mobile Development:** Android
 - **Databases & Cloud:** MySQL, Azure, Azure DevOps
 - **System Administration:** Windows Server (Active Directory), Linux OS
-- **Networking Basics:** TCP/IP, Routing
-- **Version Control:** Git (branching and collaboration workflows)
-- **Testing & Quality Assurance:** Unit Testing, Continuous Integration/Continuous Deployment (CI/CD)
+- **Networking:** TCP/IP, Routing
+- **Version Control:** Git, GitHub
+- **Testing & Quality Assurance:** Unit Testing, CI/CD
 - **Security & Tools:** Secure Software Development, Cybersecurity
-- **Other:** Software Project Management, Algorithms, AI, IoT, Big Data, Business Intelligence
+- **Other:** Software Project Management, Algorithms, IoT, Big Data, Business Intelligence, Intro to AI/ML
 
 ## Portfolio Projects
 
