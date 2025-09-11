@@ -30,7 +30,7 @@ I have worked on many projects — for example:
 - **Portfolio Website**  
   Showcases my projects, skills, and contact information, with a fully responsive design for all devices
 - **Task Manager App**  
-  A simple web app to add, edit, and filter tasks; planned to be upgraded to a full-stack version with multi-user support, authentication, cloud sync, and collaboration features
+  A simple web app to add, edit, and filter tasks; planned to be upgraded to a full-stack version
 - **DataFetch Android App**  
   A simple native Android app that fetches and displays date-name data from a JSON source, demonstrating networking, JSON parsing, and list UI display using both ListView and RecyclerView
 
