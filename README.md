@@ -27,11 +27,11 @@ I have worked on many projects — for example:
   A team project for browsing and managing recipes  
 - **Data Analysis of IT Job Markets in Finland and North Savo**  
   Individual project analyzing regional IT employment trends
-- **Portfolio Website**
+- **Portfolio Website**  
   Showcases my projects, skills, and contact information, with a fully responsive design for all devices
 - **Task Manager App**  
   A simple web app to add, edit, and filter tasks; planned to be upgraded to a full-stack version with multi-user support, authentication, cloud sync, and collaboration features
-- **DataFetch Android App**
+- **DataFetch Android App**  
   A simple native Android app that fetches and displays date-name data from a JSON source, demonstrating networking, JSON parsing, and list UI display using both ListView and RecyclerView
 
 ## What I'm Working On
@@ -40,14 +40,14 @@ I have worked on many projects — for example:
   A group project for tracking moods over time 
 - **Plant Care Assistant**  
   Uses Raspberry Pi and Azure cloud services to monitor light, humidity, and temperature, helping maintain plant health
-- **Task Manager App (Upgrade)**
-  Upgrading to support multi-user task management, authentication, and cloud sync (REST API & PostgreSQL)
+- **Task Manager App (Upgrade)**  
+  Upgrading to support multi-user task management, authentication, and cloud sync (REST API & PostgreSQL)  
   Planned features: priorities, tags, deadlines, advanced filtering, real-time updates, collaboration, integrations, and PWA support
-- **Full-Stack E-commerce Product Page**
-  Building a full-stack application with React, Redux Toolkit, Node.js, Express, and MySQL
-  Features include product browsing, a shopping cart, and API integration
+- **Full-Stack E-commerce Product Page**  
+  Building a full-stack application with React, Redux Toolkit, Node.js, Express, and MySQL  
+  Features include product browsing, a shopping cart, and API integration  
   Designed for deployment with a cloud database and hosted frontend
-- **Rock, Paper, Scissors Game**
+- **Rock, Paper, Scissors Game**  
   Interactive game built in React with a focus on state management, animations, and responsive design
 
 
